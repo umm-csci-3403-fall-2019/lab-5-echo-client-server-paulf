@@ -1,3 +1,6 @@
+[![Actions Status](https://github.com/umm-csci-3403-fall-2019/lab-5-echo-client-server-paulf/workflows/Java%20CI/badge.svg)](https://github.com/umm-csci-3403-fall-2019/lab-5-echo-client-server-paulf/actions)
+
+
 - [Echo Client & Server](#echo-client--server)
   - [The echo client/server](#the-echo-clientserver)
   - [Bats testing](#bats-testing)
