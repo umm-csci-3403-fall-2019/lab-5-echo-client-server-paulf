@@ -24,7 +24,7 @@ public class EchoServer {
                 while ((read = input.read()) != -1)
                     output.write(read); // Write the input from the client back to the client
                 
-                output.flush(); // flush the output stream
+                output.flush(); // Flush the output stream
 
                 // Shutdown and close the connection to the client
                 client.shutdownOutput();
